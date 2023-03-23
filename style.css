@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url("img/biography-bg.png");
+    height: 800px;
+    display: flex;
+    padding-left: 90px;
+}
+.right {
+    width: 40%;
+    margin-top: 152px;
+}
+.right h1{
+    font-size: 50px;
+    line-height: 18px;
+}
+.main-heder{
+    margin-top: 100px;
+}
+.left {
+    width: 40%;
+    margin-top: 59px;
+}
+.left img{
+    width: 100%;
+}
+.highlight{
+    color: tomato;
+    letter-spacing: 2px;
+    margin-bottom: 70px;
+}
+.right p{
+    color: gray;
+    font-size: 20px;
+}
+.right a{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 12px 25px;
+    border-radius:5px ;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+.matgin{
+
+}
+
+
+
+
+
+.header2{
+    background-image: url("img/biography-bg.png");
+    height: 800px;
+    display: flex;
+    padding-left: 150px;
+}
+.padding{
+    margin-left: 150px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.my-work h1{
+    text-align: center;
+    font-size: 40px;
+}
+.single-my-work {
+    width: 31%;
+    float: left;
+    padding-left: 1.7%;
+}
+.single-my-work img{
+    width: 100%;}
+    
